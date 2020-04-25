@@ -1,2 +1,2 @@
 # Portfolio
-This is my tempoary blog site.
+This is my temporary blog site.
