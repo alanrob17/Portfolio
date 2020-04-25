@@ -17,7 +17,7 @@ paginate        = 6
   RSSLink = ""
 
   twitterName = "alanrob17"
-  fbName = "fakeghost"
+  fbName = ""
   githubName = "alanrob17"
 
   logo = ""
@@ -55,6 +55,6 @@ paginate        = 6
   weight = 99
 
 [[menu.main]]
-  name = "Google"
-  url = "https://google.com/"
+  name = "Robsonmail"
+  url = "https://robsonmail.com/"
   weight = 95
