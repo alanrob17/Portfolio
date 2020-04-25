@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://blurt.netlify.app"
 theme           = "casper-two"
 languageCode    = "en-AU"
 disqusShortname = ""
