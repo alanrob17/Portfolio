@@ -1,0 +1,60 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-AU"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "My Awesome Site"
+  subtitle    = "This is my Hugo website"
+
+  cover       = "images/header.jpg"
+  description = "This is my first Hugo website."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "alanrob17"
+  fbName = "fakeghost"
+  githubName = "alanrob17"
+
+  logo = ""
+  orgName = "Alan Robson"
+  orgWebsite = "https://www.robsonmail.com"
+  orgDescription = "This is Software Inc."
+
+  author = "AR"
+  authorAvatar = "images/ghost-icon.png"
+  authorLocation = "Melbourne, VIC"
+  authorWebsite = "https://robsonmail.com"
+  authorDescription = "Developer"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Project"
+  url = "/tags/project/"
+  weight = 100
+  
+[[menu.main]]
+  name = "Programming"
+  url = "/categories/programming/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
