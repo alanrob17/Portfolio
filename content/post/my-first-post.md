@@ -6,7 +6,7 @@ image: "images/first-post.jpg"
 tags: ["project"]
 ---
 
-### First post
+### My first post
 
 I am going to keep a diary of the programming work that I do on my computer. This will give me an idea on how I am progressing with my learning and the projects that I am building.
 
