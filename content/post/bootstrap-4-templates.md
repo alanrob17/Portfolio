@@ -1,8 +1,10 @@
 ---
 title: "Bootstrap 4 Templates"
-date: 2020-04-24T18:20:12+10:00
+date: 2019-09-26T18:20:12+10:00
 draft: false
 image: "images/bootstrap-page.jpg"
+tags: ["html"]
+categories: ["programming"]
 ---
 
 ### Build a new template for my documents

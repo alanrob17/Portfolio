@@ -55,6 +55,6 @@ paginate        = 6
   weight = 99
 
 [[menu.main]]
-  name = "Robsonmail"
-  url = "https://robsonmail.com/"
+  name = "RecordDB"
+  url = "https://recordlist.netlify.app/"
   weight = 95
