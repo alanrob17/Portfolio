@@ -2,7 +2,7 @@
 title: "Converting Music Files"
 date: 2019-10-20T11:10:33+10:00
 draft: false
-image: "images/"
+image: "images/converting.jpg"
 tags: ["music","flac format"]
 categories: ["music"]
 
@@ -23,7 +23,7 @@ Some more reading had me downloading another open source utility named **Sonore*
 
 This is the Sonore interface with the settings I use to create ``.dff`` files:
 
-![Sonore GUI](assets/notes/sonore.jpg "Sonore GUI")
+![Sonore GUI](https://blurt.netlify.app/sonore.jpg "Sonore GUI")
 
 I have found one method of converting from ``.dff`` to high quality Flac that works really well but unfortunately it is not freeware and is priced at $116 US and that is too much in my book.
 

@@ -2,7 +2,7 @@
 title: "Localhost Issue"
 date: 2019-10-19T11:15:47+10:00
 draft: false
-image: "images/"
+image: "images/localhost-issues.jpg"
 tags: ["node"]
 categories: ["programming"]
 ---
@@ -15,7 +15,7 @@ I did a quick Google search and good old Stack Overflow came to the rescue with 
 
     netstat -ano | findstr :3000
 
-Will tell me that port 3000 is being used. It produced the following results:
+Tells me that port 3000 is being used. It produced the following results:
 
     TCP    0.0.0.0:3000           0.0.0.0:0              LISTENING       7108
     TCP    [::]:3000              [::]:0                 LISTENING       7108
