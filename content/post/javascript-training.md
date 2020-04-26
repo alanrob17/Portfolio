@@ -3,7 +3,7 @@ title: "Javascript Training"
 date: 2020-04-24T18:52:35+10:00
 draft: false
 image: "images/javascript-training.jpg"
-tags: ["project"]
+tags: ["javascript"]
 categories: ["programming"]
 ---
 

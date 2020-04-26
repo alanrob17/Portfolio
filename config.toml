@@ -45,14 +45,24 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Project"
-  url = "/tags/project/"
+  name = "Music"
+  url = "/categories/music/"
   weight = 100
-  
+
+[[menu.main]]
+  name = "JavaScript"
+  url = "/categories/programming/"
+  weight = 99
+
+[[menu.main]]
+  name = "C#"
+  url = "/tags/programming/"
+  weight = 98
+
 [[menu.main]]
   name = "Programming"
   url = "/categories/programming/"
-  weight = 99
+  weight = 97
 
 [[menu.main]]
   name = "RecordDB"
