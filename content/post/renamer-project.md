@@ -3,6 +3,8 @@ title: "Renamer Project"
 date: 2019-10-16T10:43:27+10:00
 draft: false
 image: "images/mountain.jpg"
+tags: ["C#"]
+categories: ["programming"]
 ---
 
 ### Renamer project
