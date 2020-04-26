@@ -41,7 +41,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Home"
-  url = "/"
+  url = "/post"
   weight = 200
 
 [[menu.main]]
@@ -52,7 +52,7 @@ paginate        = 6
 [[menu.main]]
   name = "Programming"
   url = "/categories/programming/"
-  weight = 97
+  weight = 99
 
 [[menu.main]]
   name = "RecordDB"
