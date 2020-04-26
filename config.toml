@@ -50,16 +50,6 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
-  name = "JavaScript"
-  url = "/categories/programming/"
-  weight = 99
-
-[[menu.main]]
-  name = "Csharp"
-  url = "/tags/programming/"
-  weight = 98
-
-[[menu.main]]
   name = "Programming"
   url = "/categories/programming/"
   weight = 97
