@@ -41,11 +41,10 @@ The original style for a red placemark is shown below:
     <Style id="placemark-red">
       <IconStyle>
         <Icon>
-          <href>http://mapswith.me/placemarks/placemark-red.png</href>
+          <href>http://mapswith.me/placemarks/placemark-red.png</href>                
         </Icon>
       </IconStyle>
     </Style>
-                                                                                        
 {{< / highlight >}}
 
 This doesn't work anymore so I have changed this to:
