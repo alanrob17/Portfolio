@@ -1,8 +1,10 @@
 ---
-title: "Renaming Directories Dlist"
+title: "Renaming Directories - Dlist"
 date: 2019-10-26T11:47:39+10:00
 draft: false
-image: "images/"
+image: "images/dlist.jpg"
+tags: ["csharp"]
+categories: ["programming"]
 ---
 
 ### Renaming directories - DList
