@@ -1,5 +1,5 @@
 ---
-title: "Working With Kmz Files in Maps Me"
+title: "Working With Kmz Files in Maps.Me"
 date: 2019-12-19T13:59:04+10:00
 draft: false
 image: "images/maps-me.jpg"
@@ -17,27 +17,27 @@ Each year I create a new bookmark set, for example this year I created a set nam
 
 In *Maps.me* I can click on the bookmarks icon:
 
-![Bookmarks icon](https://blurt.netlify.app/images/bookmarks-icon.jpg "Bookmarks icon")
+![Bookmarks icon](../images/bookmarks-icon.jpg "Bookmarks icon")
 
 This opens a list of all my bookmark sets.
 
-![Bookmark sets](https://blurt.netlify.app/images/bookmark-sets.jpg "Bookmark sets")
+![Bookmark sets](../images/bookmark-sets.jpg "Bookmark sets")
 
 The set I want to export is *Victoria-2019* so I click on that set and it opens up a list of all of my location points.
 
-![Location points](https://blurt.netlify.app/images/location-points.jpg "Location points")
+![Location points](../images/location-points.jpg "Location points")
 
 On the top right hand side of this page is the export icon:
 
-![Export icon](https://blurt.netlify.app/images/export-icon.jpg "Export icon")
+![Export icon](../images/export-icon.jpg "Export icon")
 
 Click on this and it will give you a list of places you can export to.
 
-![Export to](https://blurt.netlify.app/images/export-to.jpg "Export to")
+![Export to](../images/export-to.jpg "Export to")
 
 In my case I want to export to Google Drive so I click on the icon.
 
-![Google Drive export](https://blurt.netlify.app/images/google-drive-export.jpg "Google Drive export")
+![Google Drive export](../images/google-drive-export.jpg "Google Drive export")
 
 By clicking on *Save* it will export to my Google Drive folder.
 

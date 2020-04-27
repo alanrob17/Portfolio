@@ -23,4 +23,4 @@ You can find the Azure Devops repository links in *Repos -> Pushes*.
 
     git push -u origin --all
 
-![Repos -> Pushes](https://blurt.netlify.app/images/project-settings.jpg "Repos -> Pushes")
+![Repos -> Pushes](../images/project-settings.jpg "Repos -> Pushes")
