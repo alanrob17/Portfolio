@@ -13,7 +13,9 @@ Mint usually works with NTFS USB drives but if you can't see the drive you can *
 
 First run the command to see your hardware devices.
 
-  sudo fdisk -l
+{{< highlight go >}}
+  sudo fdisk -l                  
+{{< / highlight >}}
 
 At the Disk line
 
