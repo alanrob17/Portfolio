@@ -14,17 +14,20 @@ To be able to mount exFAT filesystem on Ubuntu you'll need to install the free F
 Before installing the packages make sure the Universe repository is enabled on your system. Open your terminal either by using the Ctrl+Alt+T keyboard shortcut or by clicking on the terminal icon and type:
 
 {{< highlight go >}}
-  sudo add-apt-repository universe
+  sudo add-apt-repository universe        
 {{< / highlight >}}
 
 Once the repository is enabled update the packages index and install the exfat-fuse and exfat-utils packages using the following commands:
 
 {{< highlight go >}}
-  sudo apt update                   
+  sudo apt update                          
 {{< / highlight >}}
+
 .
 
+{{< highlight go >}}
   sudo apt install exfat-fuse exfat-utils
+{{< / highlight >}}
 
 That's it! You can now open your file manager and click on the USB disk to mount it.
 
