@@ -3,7 +3,7 @@ title: "Renamer Project"
 date: 2019-10-16T10:43:27+10:00
 draft: false
 image: "images/mountain.jpg"
-tags: ["csharp"]
+tags: ["c#"]
 categories: ["programming"]
 ---
 
@@ -20,9 +20,8 @@ The utility has an option to work on the current directory or all directories. I
 **Usage:**
 
 > renamer -sw "Remove-this-phrase-from the-file-name"
+>
+> s = remove from all sub folders.
+>
+> w = write changes to all files with that particular phrase in it. If you ignore this it will just produce a log file with all of the changes to take place.
 
-```
-s = remove from all sub folders.
-w = write changes to all files with that particular phrase in it.
-    if you ignore this it will just produce a log file with all of the changes to take place.
-```

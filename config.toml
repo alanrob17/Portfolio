@@ -36,6 +36,8 @@ paginate        = 6
   #casper or caspertwo
   singleViewStyle = "casper"
 
+  pygmentsUseClasses = true
+
 [permalinks]
   post = "/:slug/"
 
