@@ -1,6 +1,6 @@
 ---
 title: "Learning About the Babel Process"
-date: 2020-04-25T12:48:58+10:00
+date: 2019-10-05T12:48:58+10:00
 draft: false
 image: "images/boat.jpg"
 tags: ["javascript"]
