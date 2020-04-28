@@ -1,5 +1,5 @@
 ---
-title: "Working With Kmz Files in Maps.Me"
+title: "Working With KMZ Files in Maps.Me"
 date: 2019-12-19T13:59:04+10:00
 draft: false
 image: "images/maps-me.jpg"

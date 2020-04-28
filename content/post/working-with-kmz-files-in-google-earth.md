@@ -1,5 +1,5 @@
 ---
-title: "Working With Kmz Files in Google Earth"
+title: "Working With KMZ Files in Google Earth"
 date: 2019-12-29T16:16:09+10:00
 draft: false
 image: "images/google-earth.jpg"
