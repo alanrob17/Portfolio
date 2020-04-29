@@ -6,9 +6,9 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "My Awesome Site"
-  subtitle    = "This is my Hugo website"
-
+  title       = "A seasoned programmer"
+  subtitle    = "I got a head full of ideas that are drivin' me insane."
+  
   cover       = "images/header.jpg"
   description = "This is my first Hugo website."
   metaDescription = ""
@@ -47,14 +47,15 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Music"
-  url = "/categories/music/"
+  name = "Programming"
+  url = "/categories/programming/"
   weight = 100
 
 [[menu.main]]
-  name = "Programming"
-  url = "/categories/programming/"
+  name = "Music"
+  url = "/categories/music/"
   weight = 99
+
 
 [[menu.main]]
   name = "RecordDB"

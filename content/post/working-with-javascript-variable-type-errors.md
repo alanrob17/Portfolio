@@ -16,7 +16,7 @@ When I work in C# it is strongly typed meaning that I have to declare a variable
 ##### My original code
 
 {{< highlight go "linenos=inline,linenostart=1" >}}
-    // get array from location.hash
+    // get array from location.hash                                            
     const hashArray  = function (hash) {
       const arrayValues = hash.split("-");
       return arrayValues;
@@ -45,7 +45,7 @@ My big mistake was that I forgot that ``split()`` only returns strings. As a res
 I always use the strict equality comparison operator to do my checking.
 
 {{< highlight go >}}
-    item.artist[0].artistid === artistId;                  
+    item.artist[0].artistid === artistId;                                      
 {{< / highlight >}}
 
 *item.artist[0].artistid* was a number and *artistId* was a string so the strict equality comparison wasn't finding a match.
@@ -53,7 +53,7 @@ I always use the strict equality comparison operator to do my checking.
 I changed the equation to the type converting equality comparison.
 
 {{< highlight go >}}
-    item.artist[0].artistid == artistId;                   
+    item.artist[0].artistid == artistId;                                       
 {{< / highlight >}}
 
 And this allowed me to find a match. It converts both variables to the same type for the comparison. This is something that is only found in JavaScript and takes a while to get used to.
@@ -63,7 +63,7 @@ Most JavaScript coders would be comfortable that the code was producing a result
 Coming from a strongly typed language background I find this code strange and so I decided to do the job properly and make sure the variables I created had the correct type.
 
 {{< highlight go "linenos=inline,linenostart=11" >}}
-    let aid = arr[0];
+    let aid = arr[0];                                                          
     aid = aid.slice(1);
     const rid = arr[1];
     const artistId = parseInt(aid);
@@ -82,7 +82,7 @@ I use the ``parseInt()`` function to convert my *artistId* and *recordId* variab
 The other thing that I could have done to check my variable's type is to use the ``typeof()`` operator to check type.
 
 {{< highlight go >}}
-    console.log(typeof(artistId));                          
+    console.log(typeof(artistId));                                             
     console.log(typeof(recordId));
 {{< / highlight >}}
 
