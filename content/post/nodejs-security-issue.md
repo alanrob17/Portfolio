@@ -29,7 +29,7 @@ I decided to do a check to see if I could find some more information about what 
 
 ![Windows Defender app and Browser security](../images/app-security.jpg "Windows Defender app and Browser security")
 
-I am not relying on Windows Defender to protect my computer. I prefer my own Internet Security package to do that so if I have any more problems with permissions stopping my projects from working I will turn this setting off to see if it is what's causing my security issues.
+I am not relying on Windows Defender to protect my computer. I prefer my own Internet Security package to do that so if I have any more problems with permissions stopping my projects from working I will turn this setting off to see if it is causing my security issues.
 
 I find this frustrating because there are a huge number of developers who have been building applications with Node.js for a number of years so why they are treating this package as an 'unrecogized app' is beyond me.
 
