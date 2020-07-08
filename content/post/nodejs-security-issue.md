@@ -34,3 +34,5 @@ I am not relying on Windows Defender to protect my computer. I prefer my own Int
 I find this frustrating because there are a huge number of developers who have been building applications with Node.js for a number of years so why they are treating this package as an 'unrecogized app' is beyond me.
 
 I also noticed that all of the Postman API requests that I had created to test my application had stopped working. The Windows 10 update has caused this issue as well. I had set up all routes to localhost:3000 and it was just a simple change to 127.0.0.1:3000 that allowed the routes to work correctly.
+
+**Note:** I was still having problems so this solution didn't fix my original issue. I ended up reinstalling Node.js and now my Node and Express applications are running without errors.
