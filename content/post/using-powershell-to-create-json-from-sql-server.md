@@ -7,8 +7,6 @@ tags: ["powershell", "sqlserver", "csharp"]
 categories: ["programming"]
 ---
 
-### Using Powershell to create JSON from SQL Server
-
 While searching for ways to generate JSON from SQL Server I found a video on using Powershell to generate JSON using calls to SQL Server. This looked interesting so I tried it out and it worked. Unfortunately it still didn't validate and just generated rubbish. I loaded the data into a text editor and found that when it hit the line return point it chopped data and added three dots to the end of each line.
 
 This is the code I used to generate data from Powershell. It is just using .Net framework commands to connect to SQL Server and is not too much different to the way I manipulate SQL Server from C# code.

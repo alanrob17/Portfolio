@@ -7,7 +7,6 @@ tags: ["music","flac format"]
 categories: ["music"]
 
 ---
-### Converting music files
 
 I have been searching for a musical holy grail for a number of years (well what I would call a holy grail). Converting music files from one format to another is something I have been doing for years but I have always had trouble reformatting ``.iso`` files into high quality FLAC files.
 

@@ -7,8 +7,6 @@ tags: ["maps-me"]
 categories: ["mapping"]
 ---
 
-### Working with KMZ files in Google Earth
-
 I use **Google Earth** to show all of the location points that I have created. The reason for this is that it doesn't have the limitation of maximum number of points that Google maps has. I can drag a **.kmz** file onto the desktop in Google Earth and it will load the points and show them on the maps.
 
 Initially when I did this it showed me nice icons and there were no placemark names appearing on the screen. Lately it hasn't been showing the correct icons and it lists all of the placemark names making for some ugly viewing.

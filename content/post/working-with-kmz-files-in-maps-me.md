@@ -7,8 +7,6 @@ tags: ["maps-me"]
 categories: ["mapping"]
 ---
 
-### Working with KMZ files in Maps.me
-
 **Note:** all screenshots were taken from my Samsung tablet.
 
 I have been saving my location points to **Maps.me** when we travel using my Samsung tablet. As I only download the points once a year it is very easy to forget the method I use to export my points.

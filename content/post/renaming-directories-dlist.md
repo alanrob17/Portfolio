@@ -7,8 +7,6 @@ tags: ["csharp"]
 categories: ["programming"]
 ---
 
-### Renaming directories - DList
-
 I often have to rename directories in the training materials that I download. They never seem to have a consistent file structure so I manually create a batch file to rename the directories. This takes me around 2-3 minutes each time I do it and I find that I am constantly creating batch files to do this task.
 
 Today I spent around 2 hours to automate this process and have run the program on a number of directories to test that it works correctly. It has cut my time down to around 10 seconds for each set of training materials.

@@ -7,8 +7,6 @@ tags: ["computer"]
 categories: ["programming"]
 ---
 
-### My internet stopped working
-
 I was working on my computer today when I needed to search for a topic on Google. To my surprise the internet had stopped working. I quickly checked on another device and found that the internet was working there.
 
 It was just my computer with the problem.

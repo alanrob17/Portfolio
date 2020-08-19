@@ -5,9 +5,7 @@ draft: false
 image: "images/using-git.jpg"
 ---
 
-### Using Git
-
-I have spent the past week re-investigating Git for source control in my programming projects. Previously I used   Azure DevOps (formerly Team Foundation Server or TFS) for source control. I am happy with TFS but wanted to use Git as there are millions of other users posting their projects on Github. The thing that put me off putting my projects on Github is that they are public and anyone can see them. For most of my code this wouldn't bother me but there are certain projects that I would want to keep hidden.
+I have spent the past week re-investigating Git for source control in my programming projects. Previously I used Azure DevOps (formerly Team Foundation Server or TFS) for source control. I am happy with TFS but wanted to use Git as there are millions of other users posting their projects on Github. The thing that put me off putting my projects on Github is that they are public and anyone can see them. For most of my code this wouldn't bother me but there are certain projects that I would want to keep hidden.
 
 It dawned on me that I could use Git with Azure DevOps instead of using Github. This keeps my projects hidden and to do the same on Github would cost me around $10 Au with a limit of 5 repositories.
 

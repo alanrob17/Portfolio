@@ -7,8 +7,6 @@ tags: ["windows"]
 categories: ["programming"]
 ---
 
-### Using command prompt in Windows 10
-
 In one of the Windows 10 feature upgrades Microsoft decided to make Powershell the default command shell on the Windows start menu (``Win-X`` keys). I use Powershell occasionally and wanted the option to use the Command prompt instead.
 
 To do this go to:

@@ -7,8 +7,6 @@ tags: ["sqlserver"]
 categories: ["programming"]
 ---
 
-### Installing Microsoft SQL Server
-
 I recently upgraded my working computer so had to reinstall all of my software. I ran into problems with my SQL Server installation.
 
 When I am installing any major piece of software I must remember to install it with Administrator privileges.

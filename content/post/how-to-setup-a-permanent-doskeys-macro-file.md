@@ -7,8 +7,6 @@ tags: ["computer"]
 categories: ["programming"]
 ---
 
-### How to setup a permanent doskeys.macro file
-
 I needed to recreate my doskeys.macro file on a new computer. The following commands show how to setup permanent doskey commands.
 
 Open **Regedit**.

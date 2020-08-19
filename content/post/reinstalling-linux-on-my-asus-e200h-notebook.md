@@ -7,8 +7,6 @@ tags: ["linux"]
 categories: ["programming"]
 ---
 
-### Reinstalling Linux on my ASUS E200H Notebook
-
 Creating a new installation of Linux on my notebook is a fairly complex process so these notes describe the whole process.
 
 I need to download the latest version of Linux Mint from the Mint website as an ISO file.

@@ -7,8 +7,6 @@ tags: ["javascript"]
 categories: ["programming"]
 ---
 
-### Working with JavaScript - Variable Type errors
-
 I was struggling to get some code working in JavaScript and realised that I'd made a small variable type error. This is one of the problems in working with a loosely typed language like JavaScript.
 
 When I work in C# it is strongly typed meaning that I have to declare a variable and its type at the same time. This saves a multitude of errors in my code. Unfortunately I don't have this luxury with JavaScript and I have to be more careful with my variables.

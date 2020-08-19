@@ -7,8 +7,6 @@ tags: ["markdown"]
 categories: ["programming"]
 ---
 
-### Markdown to HTML Process
-
 For a number of years I have been using **Dillinger.io** to compile my Markdown files into HTML. The process was relatively easy and I could quickly take the body content out of the exported web page and insert it into a **Bootstrap** HTML template to produce a styled web page.
 
 The HTML that was created wasn't valid HTML but I wasn't concerned with that. Recently I found that Dillinger started changing the formatting of the HTML content it was producing. It started changing the single and double quotes into a Microsoft Word doc format. This is unacceptable to me because I use these in my source code examples and I had to reformat these to standard quote characters. It also changed the tags I use to format my code examples so I had to manually change these as well. Today I found that Dillinger removed all of the email and password values in my code examples leaving a "protected code" message. This was unacceptable to me so I decided to dump Dillinger and look for another Markdown to HTML converter.

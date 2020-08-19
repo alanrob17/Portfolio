@@ -7,8 +7,6 @@ tags: ["markdown"]
 categories: ["programming"]
 ---
 
-### Displaying Markdown files
-
 I am currently creating all of my documentation in Markdown format and then converting to HTML with *dillinger.io* for viewing. I had a Visual Studio extension that could do this but every time I saved a page edit it would shift focus from Visual Studio to Chrome and that was very disconcerting. I disabled that extension.
 
 I always seem to have a lot of typos and would like a method of viewing my Markdown files before converting them to HTML. If I find errors I have to edit them in Markdown and HTML which is painful. I did a search for Markdown viewers and found a Chrome extension named *Markdown Reader*. I have installed this and it works really well. All I do is drop my ``.md`` file onto a Chrome browser page and it displays in HTML.

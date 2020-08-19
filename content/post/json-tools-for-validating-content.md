@@ -7,8 +7,6 @@ tags: ["json"]
 categories: ["programming"]
 ---
 
-### JSON tools for validating content
-
 I have a Google Chrome extension named **JSON viewer Awesome** and was using this for testing. The problem with this extension is that it doesn't load JSON if it has validation issues. The other issue is that it doesn't show where the errors have occurred.
 
 The following view is validated JSON.

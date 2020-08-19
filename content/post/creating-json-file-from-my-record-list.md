@@ -7,8 +7,6 @@ tags: ["csharp","json","sqlserver"]
 categories: ["programming"]
 ---
 
-### Creating a JSON file from my record list - RecordDBToJSON
-
 Using SQL Server for generating JSON wasn't totally successful so I created a program to reformat my record list into JSON for use in my JavaScript projects. I wanted to load it into my local storage and use it as a data source.
 
 The program I created runs in the console and has no arguments. It just grabs a dump of my Artist and Record tables and merges the two sources as a 1 *artist* to many *records* JSON file.

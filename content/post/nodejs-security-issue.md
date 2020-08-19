@@ -7,8 +7,6 @@ tags: ["computer", "node", "security"]
 categories: ["programming"]
 ---
 
-### Node.js Security Issue
-
 Yesterday morning I opened my computer and noticed that I had a Window 10 feature update waiting to be installed. I completed the process and started working on the Rest API that I am creating. I am using Node.js and running my server with Express.js.
 
 I booted up the server and immediately got a server error. I had worked on the application the day before and knew that it was running without any problems. Not long after my PC froze and I had to reboot. Surprisingly when I restarted the computer the application started working again and I was able to work through the day.

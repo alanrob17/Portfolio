@@ -7,8 +7,6 @@ tags: ["linux"]
 categories: ["programming"]
 ---
 
-### How to Mount exFAT Drive on Ubuntu Linux
-
 To be able to mount exFAT filesystem on Ubuntu you'll need to install the free FUSE exFAT module and tools which provide a full-featured exFAT file system implementation for Unix-like systems.
 
 Before installing the packages make sure the Universe repository is enabled on your system. Open your terminal either by using the Ctrl+Alt+T keyboard shortcut or by clicking on the terminal icon and type:

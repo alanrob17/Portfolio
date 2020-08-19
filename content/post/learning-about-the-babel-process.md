@@ -7,8 +7,6 @@ tags: ["javascript"]
 categories: ["programming"]
 ---
 
-### Learning about the Babel process
-
 In the last couple of days I have been watching videos on how to use Babel in my workflow.
 
 I have conflicting feelings on why I need to bother with Babel but am prepared to use it. The reason projects like Babel and Webpack came about is because web browsers are not keeping up with JavaScript development. There have been a number of updates to JavaScript and each browser seems to implement the new features in different timeframes.

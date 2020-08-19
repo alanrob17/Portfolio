@@ -7,8 +7,6 @@ tags: ["csharp"]
 categories: ["programming"]
 ---
 
-### Renamer project
-
 I downloaded some files recently and every file contained a prefix with the website's name in it. This included all of the source code files which rendered the code useless.
 
 I tried using my **Name** utility program to remove the offending phrase but it ended up changing the names of some files. I need to remove the prefix without changing the rest of the filename. My first option was to search the web for a free file renaming program. All I found was a program that you had to pay for or a very complicated utility with a million options for renaming files that I didn't need.

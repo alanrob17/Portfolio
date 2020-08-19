@@ -7,8 +7,6 @@ tags: ["javascript"]
 categories: ["programming"]
 ---
 
-### JavaScript Training
-
 I have recently completed the Udemy Modern JavaScript Bootcamp 2019 course run by Andrew Mead. It has been one of the most professional courses I have taken in video training. The quality and depth of training would be enough to give a learner a solid understanding of javascript. There is enough content to keep a user going for a couple of months.
 
 I did all of the training exercises and have built up a wealth of knowledge and some best practices in JavaScript. I didn't take any notes while I was training and kept the source code as my notes. The main reason for this was that Andrew created a PDF booklet based on all of the training that he presented in his videos.

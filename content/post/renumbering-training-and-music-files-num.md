@@ -7,8 +7,6 @@ tags: ["csharp","music"]
 categories: ["programming"]
 ---
 
-### Renumbering training and music files - Num
-
 Following on from my directory renaming program I have written some more code to renumber my video training and music files. Once again this is something that I have been doing for years and should have automated as some of the training materials can take around 10 to 45 minutes of manual work. I have a backlog of files that I wasn't going to finish so I had to come up with a better way of doing the task.
 
 I have been using the program for a couple of weeks now and have been able to clear around 150 folders of training materials so I am ecstatic at the amount of time I have saved. While there are still some folders that require manual intervention I have cut down my times on average to around 1-2 minutes per training course.

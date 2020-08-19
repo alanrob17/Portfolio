@@ -7,8 +7,6 @@ tags: ["linux"]
 categories: ["programming"]
 ---
 
-### Mounting a USB drive on Linux Mint
-
 Mint usually works with NTFS USB drives but if you can't see the drive you can **mount** it yourself.
 
 First run the command to see your hardware devices.
