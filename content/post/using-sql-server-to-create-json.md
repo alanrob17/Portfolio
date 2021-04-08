@@ -43,4 +43,4 @@ Once I got to this stage I realised that I had another problem. The data was jus
 
 This is very frustrating so I am going to write a C# program to join the data correctly.
 
-To read more about creating a JSON data file see [JSON formatted record list.](https://blurt.netlify.app/creating-json-file-from-my-record-list-recorddbtojson/)
+To read more about creating a JSON data file see [JSON formatted record list.](https://blurt.netlify.app/creating-a-json-file-from-my-record-list-recorddbtojson/)
