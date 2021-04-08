@@ -7,7 +7,7 @@ tags: ["csharp","json","sqlserver"]
 categories: ["programming"]
 ---
 
-Using SQL Server for generating JSON wasn't totally successful so I created a program to reformat my record list into JSON for use in my JavaScript projects. I wanted to load it into my local storage and use it as a data source.
+Using SQL Server for generating JSON wasn't totally successful so I created a program to reformat my record list into JSON for use in my JavaScript projects. I wanted to load it into my local storage and use it as a data source. [See my previous article.](https://blurt.netlify.app/using-sql-server-to-create-json/)
 
 The program I created runs in the console and has no arguments. It just grabs a dump of my Artist and Record tables and merges the two sources as a 1 *artist* to many *records* JSON file.
 
