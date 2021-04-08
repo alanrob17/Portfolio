@@ -7,7 +7,11 @@ tags: ["sqlserver", "csharp"]
 categories: ["programming"]
 ---
 
-### Using SQL Server to create JSON from SQL queries
+I am currently creating a JavaScript based website to display a version of my RecordDB database. The data will need to be consumed from a JSON file that will be stored in a web browser using local storage.
+
+The advantage of using local storage is that it is persistent and will still be available once you close and reopen your web browser. The first part of this process will be to export my data from a SQL Server database to a JSON formatted file.
+
+#### Using SQL Server to create JSON from SQL queries
 
 My first efforts in using SQL Server to dump SQL query data as JSON were a failure because I couldn't get the JSON to validate successfully.
 
@@ -38,3 +42,5 @@ The final results:
 Once I got to this stage I realised that I had another problem. The data was just a flat table and instead of being 1 artist with many records each row repeated all of the artist's data for all of that artist's records.
 
 This is very frustrating so I am going to write a C# program to join the data correctly.
+
+To read more about creating a JSON data file see [JSON formatted record list.](https://blurt.netlify.app/creating-json-file-from-my-record-list-recorddbtojson/)
