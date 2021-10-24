@@ -47,6 +47,7 @@ I have found a better way to install this registry setting. I open an Administra
 
 ```
 	reg add "HKCU\Software\Microsoft\Command Processor" /v Autorun /d "doskey /macrofile=\"d:\util\macros.doskey\"" /f
+    .
 ```
 
 To check this.
