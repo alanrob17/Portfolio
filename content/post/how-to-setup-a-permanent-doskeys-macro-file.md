@@ -46,14 +46,14 @@ These are short key commands that I use every day.
 I have found a better way to install this registry setting. I open an Administrator command prompt and run the following.
 
 ```
-	reg add "HKCU\Software\Microsoft\Command Processor" /v Autorun /d "doskey /macrofile=\"d:\util\macros.doskey\"" /f
+reg add "HKCU\Software\Microsoft\Command Processor" /v Autorun /d "doskey /macrofile=\"d:\util\macros.doskey\"" /f
     .
 ```
 
 To check this.
 
 ```
-	reg query "HKCU\Software\Microsoft\Command Processor" /v Autorun
+reg query "HKCU\Software\Microsoft\Command Processor" /v Autorun
 ```
 
 Returns.
