@@ -40,3 +40,26 @@ These are short key commands that I use every day.
     no="C:\Program Files\Notepad++\notepad++.exe" $1
     mp=D:\Util\BuildMp3Tag.exe
 ```
+
+### Added note
+
+I have found a better way to install this registry setting. I open an Administrator command prompt and run the following.
+
+```
+	reg add "HKCU\Software\Microsoft\Command Processor" /v Autorun /d "doskey /macrofile=\"d:\util\macros.doskey\"" /f
+```
+
+To check this.
+
+```
+	reg query "HKCU\Software\Microsoft\Command Processor" /v Autorun
+```
+
+Returns.
+
+> HKEY_CURRENT_USER\Software\Microsoft\Command Processor		
+>     Autorun    REG_SZ    doskey /macrofile="d:\util\macros.doskey"
+
+Check the registry.
+
+![Registry setting](../images/registry-setting.jpg "Registry setting")
