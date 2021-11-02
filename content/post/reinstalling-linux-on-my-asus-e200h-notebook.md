@@ -27,7 +27,7 @@ Now go to the Save & Exit tab and key down to the UEFI USB drive option and hit 
 
 This sounds a silly thing to do seeing as you already set the boot option but if you don't do this you won't be able to boot from the USB. This is another thing that took me hours to learn.
 
-You can now install Linix Mint from the USB.
+You can now install Linux Mint from the USB.
 
 In future you should be able to install a newer version of Linux Mint from the **Update** menu option in Linux Mint.
 
