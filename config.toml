@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://alanrobson.co/"
 theme           = "casper-two"
 languageCode    = "en-AU"
 disqusShortname = ""
