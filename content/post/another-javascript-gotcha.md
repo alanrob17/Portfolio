@@ -120,3 +120,5 @@ This is the JavaScript that is returned from the TypeScript example.
     celsius = convert(fahrenheit);
     printOutput(fahrenheit, celsius);
 ```
+
+.
