@@ -1,63 +1,63 @@
-baseurl         = "https://alanrobson.co/"
-theme           = "casper-two"
-languageCode    = "en-AU"
+baseurl = "https://blurt.netlify.app/"
+theme = "casper-two"
+languageCode = "en-AU"
 disqusShortname = ""
-paginate        = 6
+paginate = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "A seasoned programmer"
-  subtitle    = "I got a head full of ideas that are drivin' me insane."
-  
-  cover       = "images/header.jpg"
-  description = "This is my first Hugo website."
-  metaDescription = ""
-  googleAnalytics = ""
-  customCSS = []
-  RSSLink = ""
+title = "A seasoned programmer"
+subtitle = "I got a head full of ideas that are drivin' me insane."
 
-  twitterName = "alanrob17"
-  fbName = ""
-  githubName = "alanrob17"
+cover = "images/header.jpg"
+description = "This is my first Hugo website."
+metaDescription = ""
+googleAnalytics = ""
+customCSS = []
+RSSLink = ""
 
-  logo = ""
-  orgName = "Alan Robson"
-  orgWebsite = "https://www.robsonmail.com"
-  orgDescription = "This is Software Inc."
+twitterName = "alanrob17"
+fbName = ""
+githubName = "alanrob17"
 
-  author = "AR"
-  authorAvatar = "images/ghost-icon.png"
-  authorLocation = "Melbourne, VIC"
-  authorWebsite = "https://robsonmail.com"
-  authorDescription = "Developer"
+logo = ""
+orgName = "Alan Robson"
+orgWebsite = "https://www.robsonmail.com"
+orgDescription = "This is Software Inc."
 
-  pageNotFoundTitle = "404 - Page not found"
+author = "AR"
+authorAvatar = "images/ghost-icon.png"
+authorLocation = "Melbourne, VIC"
+authorWebsite = "https://robsonmail.com"
+authorDescription = "Developer"
 
-  #casper or caspertwo
-  singleViewStyle = "casper"
+pageNotFoundTitle = "404 - Page not found"
 
-  pygmentsUseClasses = true
+#casper or caspertwo
+singleViewStyle = "casper"
+
+pygmentsUseClasses = true
 
 [permalinks]
-  post = "/:slug/"
+post = "/:slug/"
 
 [[menu.main]]
-  name = "Home"
-  url = "/post"
-  weight = 200
+name = "Home"
+url = "/post"
+weight = 200
 
 [[menu.main]]
-  name = "Programming"
-  url = "/categories/programming/"
-  weight = 100
+name = "Programming"
+url = "/categories/programming/"
+weight = 100
 
 [[menu.main]]
-  name = "Music"
-  url = "/categories/music/"
-  weight = 99
+name = "Music"
+url = "/categories/music/"
+weight = 99
 
 
 [[menu.main]]
-  name = "RecordDB"
-  url = "https://recordlist.netlify.app/"
-  weight = 95
+name = "RecordDB"
+url = "https://recordlist.netlify.app/"
+weight = 95
